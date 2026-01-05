@@ -1,0 +1,19 @@
+{
+  "experiment_name": "mlops_assignment_experiments",
+  "experiment_id": "439973174090507163",
+  "total_runs": 6,
+  "timestamp": "2025-12-29 19:32:21",
+  "production_model": {
+    "name": "Logistic_Regression_Production",
+    "run_id": "fb9918939cc64c4f8bd579d1663eefa7",
+    "test_accuracy": 0.6065573770491803,
+    "test_f1": 0.5838620395997445,
+    "source": "notebook_02_saved_model"
+  },
+  "dataset_info": {
+    "n_samples": 303,
+    "n_features": 13,
+    "n_train": 242,
+    "n_test": 61
+  }
+}

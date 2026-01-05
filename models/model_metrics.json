@@ -1,0 +1,11 @@
+{
+  "model_name": "Logistic Regression",
+  "timestamp": "2025-12-29 14:19:04",
+  "test_accuracy": 0.6065573770491803,
+  "test_precision": 0.5674568010633584,
+  "test_recall": 0.6065573770491803,
+  "test_f1": 0.5838620395997445,
+  "training_samples": 242,
+  "test_samples": 61,
+  "n_features": 13
+}
