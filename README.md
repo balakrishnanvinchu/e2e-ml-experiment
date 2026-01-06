@@ -30,7 +30,7 @@ A demonstration video showing the end-to-end pipeline execution is available:
 #### Thumbnail Link
 [![MLOps Demo Video](https://img.youtube.com/vi/oqdMlJ2JV94/0.jpg)](https://youtu.be/oqdMlJ2JV94)
 
-#### : Alternative Video Formats
+#### Alternative Video Formats
 - **MP4 Download**: [Download Video](https://raw.githubusercontent.com/balakrishnanvinchu/e2e-ml-experiment/main/Demo_Video.mp4)
 - **GitHub Repository**: [View in Repository](Demo_Video.mp4)
 
