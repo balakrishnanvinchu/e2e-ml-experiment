@@ -26,8 +26,7 @@ A demonstration video showing the end-to-end pipeline execution is available:
 
 ### Option 1: Direct Video Embed (HTML)
 <video width="640" height="360" controls>
-  <source src="Demo_Video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="https://raw.githubusercontent.com/balakrishnanvinchu/e2e-ml-experiment/ea0a21475d892a8f523c3e52b871d6b6cf9c509b/Demo_Video.mp4" type="video/mp4">
 </video>
 
 ### Option 2: GitHub Video Link
