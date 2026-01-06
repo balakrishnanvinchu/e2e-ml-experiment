@@ -20,6 +20,26 @@ This project implements a complete ML lifecycle for binary classification of hea
 - **Target**: Binary classification (heart disease present/absent)
 - **Features**: Age, sex, chest pain type, blood pressure, cholesterol, etc.
 
+## Demo Video
+
+A demonstration video showing the end-to-end pipeline execution is available:
+
+### Option 1: Direct Video Embed (HTML)
+<video width="640" height="360" controls>
+  <source src="Demo_Video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+### Option 2: GitHub Video Link
+[📹 Watch Demo Video](Demo_Video.mp4)
+
+### Option 3: Download Link
+📥 [Download Demo Video](Demo_Video.mp4)
+
+**Content**: Complete workflow from data processing to model deployment  
+**Duration**: ~5-10 minutes  
+**Format**: MP4
+
 ## Setup Instructions
 
 ### Prerequisites
