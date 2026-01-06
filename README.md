@@ -24,20 +24,24 @@ This project implements a complete ML lifecycle for binary classification of hea
 
 A demonstration video showing the end-to-end pipeline execution is available:
 
-### Option 1: Direct Video Embed (HTML)
-<video width="640" height="360" controls>
-  <source src="https://raw.githubusercontent.com/balakrishnanvinchu/e2e-ml-experiment/ea0a21475d892a8f523c3e52b871d6b6cf9c509b/Demo_Video.mp4" type="video/mp4">
-</video>
+### 📹 YouTube Video Options
 
-### Option 2: GitHub Video Link
-[📹 Watch Demo Video](Demo_Video.mp4)
+#### Option 1: Embedded Player
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oqdMlJ2JV94" title="MLOps Heart Disease Prediction Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Option 3: Download Link
-📥 [Download Demo Video](Demo_Video.mp4)
+#### Option 2: Direct YouTube Link
+🎬 [Watch on YouTube](https://youtu.be/oqdMlJ2JV94)
+
+#### Option 3: Thumbnail Link
+[![MLOps Demo Video](https://img.youtube.com/vi/oqdMlJ2JV94/0.jpg)](https://youtu.be/oqdMlJ2JV94)
+
+#### Option 4: Alternative Video Formats
+- **MP4 Download**: [Download Video](https://raw.githubusercontent.com/balakrishnanvinchu/e2e-ml-experiment/main/Demo_Video.mp4)
+- **GitHub Repository**: [View in Repository](Demo_Video.mp4)
 
 **Content**: Complete workflow from data processing to model deployment  
 **Duration**: ~5-10 minutes  
-**Format**: MP4
+**Topics Covered**: Data processing, model training, MLflow tracking, Docker containerization, Kubernetes deployment
 
 ## Setup Instructions
 
