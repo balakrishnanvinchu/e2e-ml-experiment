@@ -4,6 +4,17 @@
 
 This report presents a complete MLOps implementation for heart disease prediction using the UCI Heart Disease dataset. The project demonstrates modern ML engineering practices from data acquisition through containerization and production deployment, including Docker containerization and Kubernetes orchestration for scalable deployment.
 
+## Team 70 - Contributors
+
+| Name | Email Address | Contributions % |
+|------|---------------|-----------------|
+| NEERAJ BHATT | 2024aa05020@wilp.bits-pilani.ac.in | 100% |
+| V. S. BALAKRISHNAN | 2024aa05017@wilp.bits-pilani.ac.in | 100% |
+| AVANISH KUMAR SINGH | 2024aa05353@wilp.bits-pilani.ac.in | 100% |
+| SAJAL CHAUDHARY | 2024aa05026@wilp.bits-pilani.ac.in | 100% |
+| SACHIN KUMAR | 2024aa05024@wilp.bits-pilani.ac.in | 100% |
+
+
 ## 1. Data Acquisition & EDA
 
 ### Dataset Overview

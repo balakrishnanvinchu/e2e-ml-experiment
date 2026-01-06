@@ -2,6 +2,16 @@
 
 An end-to-end machine learning pipeline for predicting heart disease risk using the UCI Heart Disease dataset. This project demonstrates modern MLOps practices including data processing, model development, experiment tracking, packaging, testing, and monitoring.
 
+## Team 70 - Contributors
+
+| Name | Email Address | Contributions % |
+|------|---------------|-----------------|
+| NEERAJ BHATT | 2024aa05020@wilp.bits-pilani.ac.in | 100% |
+| V. S. BALAKRISHNAN | 2024aa05017@wilp.bits-pilani.ac.in | 100% |
+| AVANISH KUMAR SINGH | 2024aa05353@wilp.bits-pilani.ac.in | 100% |
+| SAJAL CHAUDHARY | 2024aa05026@wilp.bits-pilani.ac.in | 100% |
+| SACHIN KUMAR | 2024aa05024@wilp.bits-pilani.ac.in | 100% |
+
 ## Project Overview
 
 This project implements a complete ML lifecycle for binary classification of heart disease presence/absence based on patient health data. The pipeline includes:
@@ -48,7 +58,7 @@ A demonstration video showing the end-to-end pipeline execution is available:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/e2e-ml-experiment.git
+   git clone https://github.com/balakrishnanvinchu/e2e-ml-experiment.git
    cd e2e-ml-experiment
    ```
 
@@ -304,8 +314,8 @@ kubectl describe pods
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache License - see the LICENSE file for details.
 
 ## Contact
 
-For questions or issues, please open a GitHub issue.
+For questions or issues, please open a [GitHub issue](https://github.com/balakrishnanvinchu/e2e-ml-experiment/issues/new/choose).
