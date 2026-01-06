@@ -1,0 +1,10 @@
+artifact_location: /home/noiclt45353/Workspace/Others/e2e-ml-experiment-main/mlruns/978153322393457032/models/m-551d83333e3249a79837be9809c96485/artifacts
+creation_timestamp: 1767628302684
+experiment_id: '978153322393457032'
+last_updated_timestamp: 1767628303580
+model_id: m-551d83333e3249a79837be9809c96485
+model_type: null
+name: model
+source_run_id: e0ceefe1bf1845d7bc758f2cb979b2a7
+status: 2
+status_message: null

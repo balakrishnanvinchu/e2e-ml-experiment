@@ -1,0 +1,15 @@
+creation_timestamp: 1767628296705
+current_stage: Production
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1767628296726
+model_id: m-65c9fdfdb7ef44abaa6042438cd01cbe
+name: heart_disease_classifier
+run_id: d7b1748db0b24ca09cb4052c34bb51c7
+run_link: null
+source: models:/m-65c9fdfdb7ef44abaa6042438cd01cbe
+status: READY
+status_message: null
+storage_location: /home/noiclt45353/Workspace/Others/e2e-ml-experiment-main/mlruns/978153322393457032/models/m-65c9fdfdb7ef44abaa6042438cd01cbe/artifacts
+user_id: null
+version: 2

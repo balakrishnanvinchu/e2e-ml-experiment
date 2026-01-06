@@ -1,0 +1,14 @@
+artifact_uri: /home/noiclt45353/Workspace/Others/e2e-ml-experiment-main/mlruns/978153322393457032/c5c191033d0048848b9aca239baf076e/artifacts
+end_time: 1767634757888
+entry_point_name: ''
+experiment_id: '978153322393457032'
+lifecycle_stage: active
+run_id: c5c191033d0048848b9aca239baf076e
+run_name: Logistic_Regression_Production
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767634756727
+status: 3
+tags: []
+user_id: noiclt45353

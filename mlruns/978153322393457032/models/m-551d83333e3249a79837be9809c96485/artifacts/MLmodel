@@ -1,0 +1,22 @@
+artifact_path: /home/noiclt45353/Workspace/Others/e2e-ml-experiment-main/mlruns/978153322393457032/models/m-551d83333e3249a79837be9809c96485/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.8.1
+model_id: m-551d83333e3249a79837be9809c96485
+model_size_bytes: 1479
+model_uuid: m-551d83333e3249a79837be9809c96485
+prompts: null
+run_id: e0ceefe1bf1845d7bc758f2cb979b2a7
+utc_time_created: '2026-01-05 15:51:42.689437'
